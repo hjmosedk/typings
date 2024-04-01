@@ -6,6 +6,6 @@ export interface OrderItemModel {
   productId: number;
   salesQuantity: number;
   price: number;
-  order: OrderModel;
+  order?: OrderModel;
   product: ProductModel;
 }

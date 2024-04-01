@@ -4,7 +4,7 @@ import { OrderItemModel } from './orderItem';
 
 export interface OrderModel {
   id: number;
-  orderItems: OrderItemModel[];
+  orderItems?: OrderItemModel[];
   orderDate: Date;
   lastChange: Date;
   customer: CustomerModel;
