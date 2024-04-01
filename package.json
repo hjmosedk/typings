@@ -1,6 +1,6 @@
 {
   "name": "ckh-typings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this is the typescript typings for my project. they have been added to a common repository to ensure reusability and consistency",
   "main": "./src/index.ts",
   "scripts": {
