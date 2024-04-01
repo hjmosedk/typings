@@ -13,5 +13,4 @@ export interface ProductModel {
   percentage: number;
   onSale: boolean;
   isPublic: boolean;
-  OrderItem: [];
 }
