@@ -4,7 +4,7 @@ import { AddressModel } from './Customer/addressModel';
 import { CustomerModel } from './Customer/customerModel';
 import { PersonalInformationModel } from './Customer/personalInformationModel';
 import { OrderModel } from './Orders/orderModel';
-import { OrderStatus } from './Orders/orderStatusModel';
+import { OrderStatus } from './Orders/orderStatus';
 import { OrderItemModel } from './Orders/orderItem';
 
 export {

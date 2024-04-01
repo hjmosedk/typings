@@ -1,4 +1,4 @@
-import { OrderStatus } from './orderStatusModel';
+import { OrderStatus } from './orderStatus';
 import { CustomerModel } from '../Customer/customerModel';
 import { OrderItemModel } from './orderItem';
 
