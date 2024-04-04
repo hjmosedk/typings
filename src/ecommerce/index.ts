@@ -1,19 +1,8 @@
-import { ProductModel } from './products/productModel';
-import { CurrencyType } from './products/currencyModel';
-import { AddressModel } from './Customer/addressModel';
-import { CustomerModel } from './Customer/customerModel';
-import { PersonalInformationModel } from './Customer/personalInformationModel';
-import { OrderModel } from './Orders/orderModel';
-import { OrderStatus } from './Orders/orderStatus';
-import { OrderItemModel } from './Orders/orderItem';
-
-export {
-  ProductModel,
-  CurrencyType,
-  AddressModel,
-  CustomerModel,
-  PersonalInformationModel,
-  OrderModel,
-  OrderStatus,
-  OrderItemModel,
-};
+export { ProductModel } from './products/productModel';
+export { CurrencyType } from './products/currencyModel';
+export { AddressModel } from './Customer/addressModel';
+export { CustomerModel } from './Customer/customerModel';
+export { PersonalInformationModel } from './Customer/personalInformationModel';
+export { OrderModel } from './Orders/orderModel';
+export { OrderStatus } from './Orders/orderStatus';
+export { OrderItemModel } from './Orders/orderItem';
