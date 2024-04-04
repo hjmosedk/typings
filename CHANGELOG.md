@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.2](https://github.com/hjmosedk/typingscompare/v0.1.1...v0.1.2) (2024-04-04)
+
+
+### Features
+
+* **backendtypings:** all backend typings are not in place ([ee257ae](https://github.com/hjmosedk/typings/commits/ee257ae1db9f9e1ec323fbf02f87eaf5b59163ae))
+
 ## [0.1.1](https://github.com/hjmosedk/typingscompare/v0.1.0...v0.1.1) (2024-04-01)
 
 
