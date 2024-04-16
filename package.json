@@ -2,8 +2,10 @@
   "name": "ckh-typings",
   "version": "0.1.2",
   "description": "this is the typescript typings for my project. they have been added to a common repository to ensure reusability and consistency",
-  "main": "dist/main.js",
-  "types": "dist/main.d.ts",
+  "exports": {
+    ".": "./dist/main.js"
+  },
+  "types": "./dist/main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky",
