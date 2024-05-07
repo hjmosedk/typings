@@ -10,4 +10,6 @@ export interface OrderModel {
   customer: CustomerModel;
   orderStatus: OrderStatus;
   orderNotes: string;
+  orderTotalPrice: number;
+  orderCurrency: CustomerModel;
 }
