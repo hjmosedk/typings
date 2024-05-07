@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.5](https://github.com/hjmosedk/typingscompare/v0.1.4...v0.1.5) (2024-05-07)
+
+
+### Bug Fixes
+
+* **orderModel:** added some more information to the order model ([4a28658](https://github.com/hjmosedk/typings/commits/4a286583ec2008ed1ce757281b309df8e69ab7ce))
+
 ## [0.1.4](https://github.com/hjmosedk/typingscompare/v0.1.3...v0.1.4) (2024-04-22)
 
 ## [0.1.3](https://github.com/hjmosedk/typingscompare/v0.1.2...v0.1.3) (2024-04-16)
